@@ -10,7 +10,7 @@ Supervised Learning with:
 
 Unsupervised learning with:
 
-  - Generative adverserial networks
+  - Generative adversarial networks
 
 Reinforcement learning with:
 
