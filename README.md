@@ -16,6 +16,7 @@ Reinforcement learning with:
 
  - Deep-Q networks
 
+-----------------------------------------------------------------------
 
 NB! A high percentage of the images, explanations and codes are taken from existing:
 
