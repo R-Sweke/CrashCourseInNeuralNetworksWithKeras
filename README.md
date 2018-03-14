@@ -1,6 +1,6 @@
 # A Crash Course in Neural Networks with Keras
 
-This repo contains five jupyter notebooks, providing high level introductions and working code examples in Keras for:
+This repo contains five Jupyter notebooks, providing high level introductions and working code examples in Keras (with tensorflow backend) for:
 
 Supervised Learning with:
 
@@ -17,12 +17,12 @@ Reinforcement learning with:
  - Deep-Q networks
 
 
-NB! All of the code examples, images and explanations are taken from either:
+NB! A high percentage of the images, explanations and codes are taken from existing:
 
-     - journal articles
-     - blogs
-     - Keras tutorials
-     - other repositories
+   - journal articles
+   - blogs
+   - Keras tutorials
+   - other repositories
 
 and when relevant the sources are referenced within the notebooks.
 
